@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+
+.calcu{
+	width: 400px;
+	height: 600px;
+	background: #024353;
+	margin-left: 450px
+}
+#screen{height: 30px;
+width: 300px;
+margin-left: 50px;
+margin-top: 30px;
+pointer-events: none}
+
+.btn{height: 50px;
+width: 65px;
+	border-radius: 5px;
+	cursor: pointer;
+margin-left: 4px;
+margin-top: 10px;
+padding-left: 10}
+.btn:hover{background-color: #D0D0D0;}
+
+.buttons{margin-left: 53px;
+    margin-top: 30px;}
